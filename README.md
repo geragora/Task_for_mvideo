@@ -1,5 +1,5 @@
 # Задание для отбора на стажировку в М.Видео
-Решение включает в себя Jupiter Notebook и Streamlit Dashboard с проверками гипотез.
+Решение включает в себя Jupiter Notebook и Streamlit Dashboard с проверками гипотез. В файле data пример данных.
 
 ЗАДАНИЕ:
 
